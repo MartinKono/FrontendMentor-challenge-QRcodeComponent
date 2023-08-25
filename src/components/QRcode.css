@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 .qr-component {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    background-color: #ffffff;
+    background-color: hsl(0, 0%, 100%);
     box-shadow: 3px 3px 20px 1px #0000003b;
     border-radius: 20px;
     padding: 15px 18px 40px 18px;
@@ -19,10 +21,16 @@
     text-align: center;
     font-size: 20px;
     margin-top: 20px;
+    color:hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
 }
 
 .qr-component p {
     text-align: center;
     font-size: 15px;
     margin-top: 20px;
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
 }
