@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-challenge-QRcodeComponent/static/css/main.a7f37f67.css",
+    "main.js": "/FrontendMentor-challenge-QRcodeComponent/static/js/main.37c1b532.js",
+    "index.html": "/FrontendMentor-challenge-QRcodeComponent/index.html",
+    "main.a7f37f67.css.map": "/FrontendMentor-challenge-QRcodeComponent/static/css/main.a7f37f67.css.map",
+    "main.37c1b532.js.map": "/FrontendMentor-challenge-QRcodeComponent/static/js/main.37c1b532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f37f67.css",
+    "static/js/main.37c1b532.js"
+  ]
+}
